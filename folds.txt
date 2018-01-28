@@ -1,0 +1,36 @@
+
+synform
+antiform
+>direction of folds opening
+
+syncline
+anticline
+>order of old-young layers going in or out of a fold
+
+z fold vs s folds > need to understand better
+
+kink fold
+harmonic fold > symmetrical
+
+cylindrical fold
+> all normals to cyclindrical fold fall in a plane
+> for perfect c.fold, fold surfaces plotted on a stereonet intersect at one
+ point, the hinge line
+non-cylindrical
+>normal not falling in a plane, ie slightly warped surface
+
+flexural slip/flow
+>no distortion of points on original plane that is folded
+
+Orthogonal flexure
+>all lines orthogonal to layer remain that way
+
+
+
+
+
+
+
+
+
+
